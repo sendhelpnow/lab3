@@ -8,9 +8,9 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 ## [0.0.1] - 2018-01-25
 ### New Component
-- Made new controllers for About and Gallery
-- Moved about, gallery, index from public to views and changed from html to php (index renamed to welcome)
+- Made new controllers for About and Gallery MY
+- Moved about, gallery, index from public to views and changed from html to php (index renamed to welcome) MY
 
 ### Updated component
-- The Welcome controller now points to welcome view
-- Headers in about, gallery and welcome view now refer to controllers instead of static html
+- The Welcome controller now points to welcome view MY
+- Headers in about, gallery and welcome view now refer to controllers instead of static html MY
