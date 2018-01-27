@@ -5,6 +5,15 @@ Team conventions: Allman notation, markdown for changelog
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 ## [Unreleased]
+## [0.0.2] - 2018-01-27
+### New Component
+- Created new simple model Images.php and _cell.php to handle single images MY
+
+### Updated component
+- Removed duplicate template from about.php and gallery.php MY
+- config/autoload.php was updated so database driver can be preloaded MY
+- Modified template.php, welcome.php, Welcome.php, Gallery.php to finish
+  dynamic database driven content MY
 
 ## [0.0.1] - 2018-01-25
 ### New Component
